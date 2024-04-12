@@ -14,7 +14,7 @@
 
 ## Мой стек
 
-<div style="display: flex; align-items: center; justify-content: start;">
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: start;">
   <div style="background-color: #f7df1e; display: inline-block; padding: 5px; margin: 4px;">
     <img src="https://simpleicons.org/icons/javascript.svg" width="30" alt="JavaScript" />
   </div>
@@ -60,7 +60,7 @@
 
 ## Связь
 
-<div style="display: flex; align-items: center; justify-content: start;">
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: start;">
   <a href="mailto:gorobets.olga74@mail.ru" style="background-color: #FF6C37; padding: 5px; margin: 10px; display: inline-block;">
     <img src="https://simpleicons.org/icons/maildotru.svg" width="30" alt="Email" />
   </a>
