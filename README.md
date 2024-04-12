@@ -13,7 +13,18 @@
 
 ## Мой стек
 
-![JavaScript](https://simpleicons.org/icons/javascript.svg) ![React](https://simpleicons.org/icons/react.svg) ![Node.js](https://simpleicons.org/icons/nodedotjs.svg) ![NGINX](https://simpleicons.org/icons/nginx.svg) ![Git](https://simpleicons.org/icons/git.svg) ![HTML](https://simpleicons.org/icons/html5.svg) ![CSS](https://simpleicons.org/icons/css3.svg) ![MongoDB](https://simpleicons.org/icons/mongodb.svg) ![Webpack](https://simpleicons.org/icons/webpack.svg) ![Postman](https://simpleicons.org/icons/postman.svg) ![Express](https://simpleicons.org/icons/express.svg) 
+<!-- ![JavaScript](https://simpleicons.org/icons/javascript.svg) ![React](https://simpleicons.org/icons/react.svg) ![Node.js](https://simpleicons.org/icons/nodedotjs.svg) ![NGINX](https://simpleicons.org/icons/nginx.svg) ![Git](https://simpleicons.org/icons/git.svg) ![HTML](https://simpleicons.org/icons/html5.svg) ![CSS](https://simpleicons.org/icons/css3.svg) ![MongoDB](https://simpleicons.org/icons/mongodb.svg) ![Webpack](https://simpleicons.org/icons/webpack.svg) ![Postman](https://simpleicons.org/icons/postman.svg) ![Express](https://simpleicons.org/icons/express.svg)  -->
+<img src="https://simpleicons.org/icons/javascript.svg" width="30" alt="JavaScript" />
+<img src="https://simpleicons.org/icons/react.svg" width="30" alt="React" />
+<img src="https://simpleicons.org/icons/nodedotjs.svg" width="30" alt="Node.js" />
+<img src="https://simpleicons.org/icons/nginx.svg" width="30" alt="NGINX" />
+<img src="https://simpleicons.org/icons/git.svg" width="30" alt="Git" />
+<img src="https://simpleicons.org/icons/html5.svg" width="30" alt="HTML" />
+<img src="https://simpleicons.org/icons/css3.svg" width="30" alt="CSS" />
+<img src="https://simpleicons.org/icons/mongodb.svg" width="30" alt="MongoDB" />
+<img src="https://simpleicons.org/icons/webpack.svg" width="30" alt="Webpack" />
+<img src="https://simpleicons.org/icons/postman.svg" width="30" alt="Postman" />
+<img src="https://simpleicons.org/icons/express.svg" width="30" alt="Express" />
 
 ## Планы
 
@@ -25,7 +36,7 @@
 
 ## Связь
 
-[!Email](https://simpleicons.org/icons/maildotru.svg)  gorobets.olga74@mail.ru 
+[![Email](https://simpleicons.org/icons/maildotru.svg)] gorobets.olga74@mail.ru 
 [![WhatsApp](https://simpleicons.org/icons/whatsapp.svg)](https://wa.me/821039571805)
 [![Telegram](https://simpleicons.org/icons/telegram.svg)](https://t.me/schast_e_est)
 
