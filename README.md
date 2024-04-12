@@ -15,39 +15,18 @@
 ## Мой стек
 
 <div style="display: flex; align-items: center; justify-content: start;">
-  <div style="padding: 5px; margin: 4px;">
-    <img src="https://simpleicons.org/icons/javascript.svg" width="30" alt="JavaScript" />
-  </div>
-  <div style="padding: 5px; margin: 4px;">
-    <img src="https://simpleicons.org/icons/react.svg" width="30" alt="React" />
-  </div>
-  <div style="padding: 5px; margin: 4px;">
-    <img src="https://simpleicons.org/icons/nodedotjs.svg" width="30" alt="Node.js" />
-  </div>
-  <div style="padding: 5px; margin: 4px;">
-    <img src="https://simpleicons.org/icons/nginx.svg" width="30" alt="NGINX" />
-  </div>
-  <div style="padding: 5px; margin: 4px;">
-    <img src="https://simpleicons.org/icons/git.svg" width="30" alt="Git" />
-  </div>
-  <div style="padding: 5px; margin: 4px;">
-    <img src="https://simpleicons.org/icons/html5.svg" width="30" alt="HTML" />
-  </div>
-  <div style="padding: 5px; margin: 4px;">
-    <img src="https://simpleicons.org/icons/css3.svg" width="30" alt="CSS" />
-  </div>
-  <div style="padding: 5px; margin: 4px;">
-    <img src="https://simpleicons.org/icons/mongodb.svg" width="30" alt="MongoDB" />
-  </div>
-  <div style="padding: 5px; margin: 4px;">
-    <img src="https://simpleicons.org/icons/webpack.svg" width="30" alt="Webpack" />
-  </div>
-  <div style="padding: 5px; margin: 4px;">
-    <img src="https://simpleicons.org/icons/postman.svg" width="30" alt="Postman" />
-  </div>
-  <div style="padding: 5px; margin: 4px;">
-    <img src="https://simpleicons.org/icons/express.svg" width="30" alt="Express" />
-  </div>
+  <img src="https://simpleicons.org/icons/javascript.svg" width="30" alt="JavaScript" style="margin: 4px;" />
+  <img src="https://simpleicons.org/icons/react.svg" width="30" alt="React" style="margin: 4px;" />
+  <img src="https://simpleicons.org/icons/nodedotjs.svg" width="30" alt="Node.js" style="margin: 4px;" />
+  <img src="https://simpleicons.org/icons/nginx.svg" width="30" alt="NGINX" style="margin: 4px;" />
+  <img src="https://simpleicons.org/icons/git.svg" width="30" alt="Git" style="margin: 4px;" />
+  <img src="https://simpleicons.org/icons/html5.svg" width="30" alt="HTML" style="margin: 4px;" />
+  <img src="https://simpleicons.org/icons/css3.svg" width="30" alt="CSS" style="margin: 4px;" />
+  <img src="https://simpleicons.org/icons/mongodb.svg" width="30" alt="MongoDB" style="margin: 4px;" />
+  <img src="https://simpleicons.org/icons/webpack.svg" width="30" alt="Webpack" style="margin: 4px;" />
+  <img src="https://simpleicons.org/icons/express.svg" width="30" alt="Express" style="margin: 4px;" />
+  <img src="https://simpleicons.org/icons/postman.svg" width="30" alt="Postman" style="margin: 4px;" />  
+</div> 
 </div>
 
 ## Планы
@@ -60,7 +39,7 @@
 
 ## Связь
 
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: start;">
+<div style="display: flex; align-items: center; justify-content: start;">
   <a href="mailto:gorobets.olga74@mail.ru" style="background-color: #FF6C37; padding: 5px; margin: 20px; display: inline-block;">
     <img src="https://simpleicons.org/icons/maildotru.svg" width="30" alt="Email" />
   </a>
