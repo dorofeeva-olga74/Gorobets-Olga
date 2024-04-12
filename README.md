@@ -1,4 +1,4 @@
-# Привет, я Olga Gorobets!
+# Привет, я Olga Gorobets! :sun_with_face:
 
 ## Обо мне
 
@@ -6,7 +6,7 @@
 
 ## Мой опыт
 
-- **Frontend**: Я владею [HTML, CSS и JavaScript]. Работала с библиотекой [React] для разработки пользовательских интерфейсов.
+- **Frontend**: Я владею [HTML, CSS и JavaScript]. Работала с библиотекой ![React] (https://simpleicons.org/icons/react.svg) для разработки пользовательских интерфейсов.
 - **Backend**: Имею опыт работы с [Node.js] и [Express] для создания серверных приложений. Использовала [JWT (JSON Web Tokens)] для аутентификации и авторизации. Настраивала [NGINX].
 - **Базы данных**: Имею опыт работы с базой данных [MongoDB].
 - **Инструменты**: Использовала [Git] для контроля версий и совместной работы над проектами, [Webpack] для сборки и управления зависимостями в проекте, [Postman] для тестирования [API] и запросов.
@@ -17,13 +17,13 @@
 
 1. Углубить знания в JavaScript, React и Git.
 2. Продолжать учиться и развиваться.
-3. Создать pet-проект сайта отеля.
+3. Создать pet-проект сайта-портфолио.
 
 ## Связь
 
-email: gorobets.olga74@mail.ru
-tel.: WhatsApp: +821039571805
-telegram: @schast_e_est
+email: gorobets.olga74@mail.ru 
+tel.: [WhatsApp](https://wa.me/821039571805)
+telegram: [Telegram](https://t.me/schast_e_est)
 
 
 ## Статус занятости
