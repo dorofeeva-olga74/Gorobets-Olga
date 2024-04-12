@@ -12,7 +12,9 @@
 - **Инструменты**: Использовала [Git] для контроля версий и совместной работы над проектами, [Webpack] для сборки и управления зависимостями в проекте, [Postman] для тестирования [API] и запросов.
 
 ## Мой стек
-![JavaScript] (https://simpleicons.org/icons/javascript.svg) ![React] (https://simpleicons.org/icons/react.svg) ![Node.js] (https://simpleicons.org/icons/nodedotjs.svg) ![NGINX] (https://simpleicons.org/icons/nginx.svg) ![Git] (https://simpleicons.org/icons/git.svg) ![HTML] (https://simpleicons.org/icons/html5.svg) ![CSS] (https://simpleicons.org/icons/css3.svg) ![MongoDB] (https://simpleicons.org/icons/mongodb.svg) ![Webpack] (https://simpleicons.org/icons/webpack.svg) ![Postman] (https://simpleicons.org/icons/postman.svg) ![Express] (https://simpleicons.org/icons/express.svg) ![JWT] (https://simpleicons.org/icons/jet.svg)
+
+![JavaScript](https://simpleicons.org/icons/javascript.svg) ![React](https://simpleicons.org/icons/react.svg) ![Node.js](https://simpleicons.org/icons/nodedotjs.svg) ![NGINX](https://simpleicons.org/icons/nginx.svg) ![Git](https://simpleicons.org/icons/git.svg) ![HTML](https://simpleicons.org/icons/html5.svg) ![CSS](https://simpleicons.org/icons/css3.svg) ![MongoDB](https://simpleicons.org/icons/mongodb.svg) ![Webpack](https://simpleicons.org/icons/webpack.svg) ![Postman](https://simpleicons.org/icons/postman.svg) ![Express](https://simpleicons.org/icons/express.svg) 
+
 ## Планы
 
 Мои планы включают в себя:
@@ -23,9 +25,9 @@
 
 ## Связь
 
-[![Email] (https://simpleicons.org/icons/maildotru.svg)]  gorobets.olga74@mail.ru 
-[![WhatsApp] (https://simpleicons.org/icons/whatsapp.svg)] (https://wa.me/821039571805)
-[![Telegram] (https://simpleicons.org/icons/telegram.svg)] (https://t.me/schast_e_est)
+[!Email](https://simpleicons.org/icons/maildotru.svg)  gorobets.olga74@mail.ru 
+[![WhatsApp](https://simpleicons.org/icons/whatsapp.svg)](https://wa.me/821039571805)
+[![Telegram](https://simpleicons.org/icons/telegram.svg)](https://t.me/schast_e_est)
 
 ## Статус занятости
 
